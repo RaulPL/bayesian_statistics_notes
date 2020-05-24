@@ -23,6 +23,7 @@ dependencies:
   - tqdm>=4.46.0
   - xarray>=0.15.1
   - pip:
+    - daft
     - future>=0.18.2
     - opt-einsum>=3.2.1
     - pyro-api>=0.1.2
